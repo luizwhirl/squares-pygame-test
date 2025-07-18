@@ -1,1 +1,1 @@
-# squares-pygame-test
+pip install pygame
